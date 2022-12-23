@@ -39,7 +39,7 @@
 
 ## About The Project
 
-[![App Name Screen Shot][app-screenshot]](https://example.com)
+[![Product Name Screen Shot][app-screenshot]](https://example.com)
 
 In English language, words can be categorized according to their syntactic functions, which is known as "Part of Speech".
 Examples of part of speech: (noun, verb, adjective, ...)
