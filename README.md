@@ -130,9 +130,11 @@ _Below is an example of how you can instruct your audience on installing and set
 
 ## Contact
 
-Your Name - 01012234592 - abdallah.mohamed.conan@gmail.com
+Abdallah Mohamed - 01012234592 - abdallah.mohamed.conan@gmail.com
 
 Project Link: [https://github.com/colonel14/word-quiz-app](https://github.com/colonel14/word-quiz-app)
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
