@@ -117,12 +117,12 @@ _Below is an example of how you can instruct your audience on installing and set
 
 ## Usage
 
--- This App make a Words Quiz of randomly 10 questions per time.
--- The App displays only one Question per time and its Answers (noun, adverb, adjective, verb)..
--- You are not allowed to access the next question until you answer the current one.
--- The App will give you a feedback of which your answer was correct or wrong.
--- After Finishing the Quiz by answering all of the question the App will display your score and also your rank between other players.
--- After that you are free to choose whether to try again or close the app.
+### This App make a Words Quiz of randomly 10 questions per time.
+### The App displays only one Question per time and its Answers (noun, adverb, adjective, verb)..
+### You are not allowed to access the next question until you answer the current one.
+### The App will give you a feedback of which your answer was correct or wrong.
+### After Finishing the Quiz by answering all of the question the App will display your score and also your rank between other players.
+### After that you are free to choose whether to try again or close the app.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
