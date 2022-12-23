@@ -134,14 +134,13 @@ Abdallah Mohamed - 01012234592 - abdallah.mohamed.conan@gmail.com
 
 Project Link: [https://github.com/colonel14/word-quiz-app](https://github.com/colonel14/word-quiz-app)
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+LinkedIn: [@drColonel](https://www.linkedin.com/in/drColonel/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[linkedin-url]: https://www.linkedin.com/in/drColonel/
 [product-screenshot]: images/Screenshot.png
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [react-url]: https://reactjs.org/
