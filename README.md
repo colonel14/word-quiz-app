@@ -39,7 +39,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][app-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 In English language, words can be categorized according to their syntactic functions, which is known as "Part of Speech".
 Examples of part of speech: (noun, verb, adjective, ...)
@@ -140,6 +140,6 @@ Project Link: [https://github.com/colonel14/word-quiz-app](https://github.com/co
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [linkedin-url]: https://www.linkedin.com/in/drColonel/
-[app-screenshot]: images/Screenshot.png
+[product-screenshot]: images/Screenshot.png
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [react-url]: https://reactjs.org/
